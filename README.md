@@ -20,9 +20,9 @@
 
 **Make a functional game**
 
-> *: component of game for **fun** + component of education for **learning***
+> *: component of game for **fun** + **component of education for learning**
 
-> *-**Functional game ?****Functional games that incorporate various functions**such as education, medical treatment, and training**into the main entertainment elements of the game*
+> *-**Functional game ?** **Functional games that incorporate various functions**such as education, medical treatment, and training**into the main entertainment elements of the game*
 
 ### **2. Key features**
 
