@@ -152,7 +152,7 @@ There is a mission function
 
 MEMBER INFORMATION
 
-- member 1
+- member 1 <br>
   `name` : Lee Ye Ji <br>
   `student number` : 201635838 <br>
   `e-mail` : [yagee97@naver.com](mailto:yagee97@naver.com) <br>
@@ -165,7 +165,7 @@ MEMBER INFORMATION
   `role` : first presentation, construct DB, itemfunction_2
   construct all program<br>
 - member 3 <br>
-  `name` : Lim Hyo Jin <br>  
+  `name` : Lim Hyo Jin   
   `student number` : 201635844 <br>
   `e-mail` : [qndnd1@naver.com](mailto:qndnd1@naver.com) <br>
   `role` : managing wiki page, construct DB, itemfunction_3 
