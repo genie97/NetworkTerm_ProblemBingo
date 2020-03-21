@@ -78,7 +78,7 @@
 
 > **When game is started**
 
-![](./md_images/gamemain.PNG)
+![](./md_images/gamemain.png)
 
 ```
 * First, do rock-paper-scissors to decide order.
@@ -87,7 +87,7 @@
 
 > **When choose a number**
 
-![](./md_images/select.PNG)
+![](./md_images/select.png)
 
 ```
 * Solve a problem according to category you chose
@@ -95,14 +95,14 @@
 
 > **When after you solve a problem**
 
-![](./md_images/solve1.PNG)
+![](./md_images/solve1.png)
 
 ```
 * If you get the right answer you can delete the number
 * also you receive one more chance to pick a number
 ```
 
-![](./md_images/solve2.PNG)
+![](./md_images/solve2.png)
 
 ```
 * If you wrong answer, your turn goes to opponent then 
@@ -111,7 +111,7 @@
 
 > **Special Function**
 
-![](./md_images/item.PNG)
+![](./md_images/item.png)
 
 ```
 There are three item functions
@@ -138,7 +138,7 @@ There are three item functions
 * Item 3) Randomly revive the cell that the opponent cleared
 ```
 
-![](./md_images/mission.PNG)
+![](./md_images/mission.png)
 
 ```
 There is a mission function
