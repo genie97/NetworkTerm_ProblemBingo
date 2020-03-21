@@ -20,9 +20,10 @@
 
 **Make a functional game**
 
-> *: component of game for **fun** + **component of education for learning**
+> : component of game for **fun** + **component of education for learning**
 
-> *-**Functional game ?** **Functional games that incorporate various functions**such as education, medical treatment, and training**into the main entertainment elements of the game*
+> -**Functional game ?** <br>
+**Functional games that incorporate various functions** such as education, medical treatment, and training**into the main entertainment elements of the game*
 
 ### **2. Key features**
 
@@ -59,7 +60,7 @@
 
 > ##### MAIN SCREEN
 
-![](./md_images/mainscreen.PNG)
+![](./md_images/mainscreen.png)
 
 ```
 * Click the Login button and enter your name.
@@ -67,7 +68,7 @@
 * Click the Start button.
 ```
 
-![](./md_images/mode.PNG)
+![](./md_images/mode.png)
 
 ```
 * After the start button, you can select the mode.
@@ -152,26 +153,26 @@ There is a mission function
 MEMBER INFORMATION
 
 - member 1
-  `name` : Lee Ye Ji
-  `student number` : 201635838
-  `e-mail` : [yagee97@naver.com](mailto:yagee97@naver.com)
-  `role` : design, construct DB, itemfunction_1
-  construct all program
-- member 2
-  `name` : Lee Cheol Soon
-  `student number` : 201635842
-  `e-mail` : [chirsoon@naver.com](mailto:chirsoon@naver.com)
+  `name` : Lee Ye Ji <br>
+  `student number` : 201635838 <br>
+  `e-mail` : [yagee97@naver.com](mailto:yagee97@naver.com) <br>
+  `role` : design, construct DB, itemfunction_1 
+  construct all program <br>
+- member 2 <br>
+  `name` : Lee Cheol Soon <br>
+  `student number` : 201635842 <br>
+  `e-mail` : [chirsoon@naver.com](mailto:chirsoon@naver.com)<br>
   `role` : first presentation, construct DB, itemfunction_2
-  construct all program
-- member 3
-  `name` : Lim Hyo Jin
-  `student number` : 201635844
-  `e-mail` : [qndnd1@naver.com](mailto:qndnd1@naver.com)
-  `role` : managing wiki page, construct DB, itemfunction_3
-  construct all program
-- member 4
-  `name` : Choi Hye Yeon
-  `student number` : 201635850
-  `e-mail` : [chlgpdus921@naver.com](mailto:chlgpdus921@naver.com)
+  construct all program<br>
+- member 3 <br>
+  `name` : Lim Hyo Jin <br>  
+  `student number` : 201635844 <br>
+  `e-mail` : [qndnd1@naver.com](mailto:qndnd1@naver.com) <br>
+  `role` : managing wiki page, construct DB, itemfunction_3 
+  construct all program <br>
+- member 4 <br>
+  `name` : Choi Hye Yeon <br>
+  `student number` : 201635850 <br>
+  `e-mail` : [chlgpdus921@naver.com](mailto:chlgpdus921@naver.com) <br>
   `role` : final presentation, chatting program,
-  construct all program
+  construct all program <br>
