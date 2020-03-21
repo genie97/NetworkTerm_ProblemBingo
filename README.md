@@ -1,6 +1,6 @@
 # Problem Bingo
 
-![](./md_images/problembingo.PNG)
+![](./md_images/problembingo.png)
 
 ## Game Rule
 
